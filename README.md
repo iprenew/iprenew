@@ -3,6 +3,10 @@
 
 ### Contact me:
 
-<a href="https://t.me/timeload">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="40">
+<a href="https://t.me/timeload" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+    alt="Telegram" 
+    width="40"
+  >
 </a>
